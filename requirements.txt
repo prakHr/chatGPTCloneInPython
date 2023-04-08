@@ -1,0 +1,17 @@
+dash==2.5.1
+dash-auth==2.0.0
+dash-bootstrap-components==1.1.0
+dash-bootstrap-templates==1.0.8
+dash-canvas==0.1.0
+dash-core-components==2.0.0
+dash-enterprise-auth==0.1.0
+dash-html-components==2.0.0
+dash-iconify==0.1.2
+dash-mantine-components==0.10.2
+dash-player==1.1.0
+dash-renderer==1.4.0
+dash-table==5.0.0
+dash-tools==1.11.1
+firebase-admin==6.1.0
+furl==2.1.3
+Pyrebase4==4.6.0
