@@ -7,3 +7,5 @@ chatgpt clone with naive RHLF functionality and start from scratch functionality
 * firebase-admin
 * dash
 * rapidapi
+* dash-bootstrap-components
+* furl
